@@ -1,0 +1,4 @@
+#Sun Jul 26 16:19:43 WIB 2020
+base.0=/home/agung/Documents/Kuliah/Tugas/robot-sd/KPROBOT/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
